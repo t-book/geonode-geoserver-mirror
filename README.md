@@ -1,9 +1,11 @@
 # A GeoNode GeoServer mirror
 
 This repository keeps releases of the GeoServer shipped with GeoNode:
+
 https://github.com/GeoNode/geonode/blob/master/dev_config.yml
 
 GeoServer is free and OpenSource Software. http://geoserver.org/
+
 Download files from here without any warranty.
 
 ## Available releases
